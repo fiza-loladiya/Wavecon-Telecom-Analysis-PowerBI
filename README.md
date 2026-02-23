@@ -128,5 +128,3 @@ This dashboard helps:
 - **Product & pricing teams** compare plan performance before vs after 5G to optimize the plan portfolio (keep, fix, or discontinue plans)
 - **Strategy teams** prioritize actions like bundling, promotions, and migration campaigns to improve adoption and reduce churn
 
-
-└─ README.md
